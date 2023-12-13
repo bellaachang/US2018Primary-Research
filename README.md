@@ -1,4 +1,4 @@
-# Statistical Research on 2018 U.S. Primary Elections
+# Probabilistic Inference on 2018 U.S. Primary Elections
 For my group final project in DATA 102: Data, Inference, and Decisions, my group and I chose to research FiveThirtyEight's dataset on the 2018 U.S. primaries: https://github.com/fivethirtyeight/data/tree/master/primary-candidates-2018. 
 
 Specifically, we conducted in-depth statistical analysis on two research questions, oriented around two major concepts in probabilistic decision-making:
